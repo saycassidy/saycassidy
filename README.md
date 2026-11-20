@@ -15,9 +15,9 @@
 <p align="center">i'm a computer science student building things i care about</p>
 
 <p align="center">
-  <strong><a href="https://kyrofrost.xyz">Website</a></strong> |
-  <strong><a href="https://youtube.com/@frostiieeeee">YouTube</a></strong> |
-  <strong><a href="https://cdn.nest.rip/uploads/c43467c1-5686-4c82-a936-cf5d314e9015.asc">PGP</a></strong>
+  <strong><a href="https://kyrofrost.xyz">Website (Out of commission.)</a></strong> |
+  <strong><a href="https://youtube.com/@duztae">YouTube</a></strong> |
+  <strong><a href="https://cdn.nest.rip/uploads/c43467c1-5686-4c82-a936-cf5d314e9015.asc">PGP (Old)</a></strong>
 </p>
 
 <p align="center">
